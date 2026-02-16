@@ -37,8 +37,8 @@ export function ServicesSection() {
             Comprehensive Solutions for the Public Sector
           </h2>
           <p className="mt-4 leading-relaxed text-muted-foreground">
-            We deliver a full spectrum of professional services designed to meet the
-            unique demands of government agencies.
+            We deliver a full spectrum of professional services designed to meet
+            the unique demands of government agencies.
           </p>
         </div>
 

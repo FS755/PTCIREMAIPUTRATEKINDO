@@ -8,7 +8,7 @@ import { Footer } from "@/components/footer"
 
 export default function Home() {
   return (
-    <>
+    <div className="min-h-screen">
       <Navbar />
       <main>
         <HeroSection />
@@ -18,6 +18,6 @@ export default function Home() {
         <ContactSection />
       </main>
       <Footer />
-    </>
+    </div>
   )
 }

@@ -5,22 +5,26 @@ const highlights = [
   {
     icon: Shield,
     title: "Certified & Compliant",
-    description: "Fully certified with government procurement standards and regulatory compliance frameworks.",
+    description:
+      "Fully certified with government procurement standards and regulatory compliance frameworks.",
   },
   {
     icon: Users,
     title: "100+ Professionals",
-    description: "A dedicated team of engineers, consultants, and project managers serving the public sector.",
+    description:
+      "A dedicated team of engineers, consultants, and project managers serving the public sector.",
   },
   {
     icon: Award,
     title: "15+ Years Experience",
-    description: "Over a decade and a half of proven track record delivering complex government projects.",
+    description:
+      "Over a decade and a half of proven track record delivering complex government projects.",
   },
   {
     icon: Target,
     title: "98% Project Success",
-    description: "Industry-leading project completion rate with on-time and on-budget delivery.",
+    description:
+      "Industry-leading project completion rate with on-time and on-budget delivery.",
   },
 ]
 
@@ -49,13 +53,25 @@ export function ProfileSection() {
               Your Trusted Partner in Construction Solutions
             </h2>
             <p className="mt-4 leading-relaxed text-muted-foreground">
-              PT. CIREMAI PUTRA TEKINDO merupakan perusahaan yang bergerak di bidang konstruksi yaitu sebagai jasa mekanikal elektrikal, Didirikan sejak tahun 2007 dengan menjadi Mitra PLN hingga Mitra BUMN dan BUMD serta SWASTA yang dikerjakan oleh beberapa praktisi konstruksi yang memiliki visi dan misi yang sama serta memiliki keinginan untuk mengembangkan usaha di bidang konstruksi secara profesional. Perusahaan kami berkontribusi bagi pembangun rumah, jalan, lapangan, gedung,dan infrastruktur lainnya milik perorangan atau perseroan di Indonesia.
+              PT. CIREMAI PUTRA TEKINDO merupakan perusahaan yang bergerak di
+              bidang konstruksi yaitu sebagai jasa mekanikal elektrikal,
+              Didirikan sejak tahun 2007 dengan menjadi Mitra PLN hingga Mitra
+              BUMN dan BUMD serta SWASTA yang dikerjakan oleh beberapa praktisi
+              konstruksi yang memiliki visi dan misi yang sama serta memiliki
+              keinginan untuk mengembangkan usaha di bidang konstruksi secara
+              profesional. Perusahaan kami berkontribusi bagi pembangun rumah,
+              jalan, lapangan, gedung,dan infrastruktur lainnya milik perorangan
+              atau perseroan di Indonesia.
             </p>
             <p className="mt-4 leading-relaxed text-muted-foreground">
-              Our vision : Dengan kerja sama tim, dukungan yang solid, dan profesionalisme, kami selalu siap membangun komunikasi yang efektif dan tepat dalam memenuhi kebutuhan pelanggan.
+              Our vision : Dengan kerja sama tim, dukungan yang solid, dan
+              profesionalisme, kami selalu siap membangun komunikasi yang efektif
+              dan tepat dalam memenuhi kebutuhan pelanggan.
             </p>
             <p className="mt-4 leading-relaxed text-muted-foreground">
-              Our mssion : Memberikan layanan, kualitas, dan kepuasan kepada pelanggan. Membangun dan menciptakan citra terbaik perusahaan. Serta berpartisipasi dalam pembangunan Republik Indonesia.
+              Our mssion : Memberikan layanan, kualitas, dan kepuasan kepada
+              pelanggan. Membangun dan menciptakan citra terbaik perusahaan.
+              Serta berpartisipasi dalam pembangunan Republik Indonesia.
             </p>
           </div>
         </div>
