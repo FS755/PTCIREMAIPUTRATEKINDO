@@ -6,7 +6,7 @@ export function Footer() {
           {/* Brand */}
           <div>
             <p className="font-heading text-lg font-bold text-primary-foreground">
-              Vistara Group
+              PT. CIREMAI PUTRA TEKINDO
             </p>
             <p className="mt-2 text-sm leading-relaxed text-primary-foreground/70">
               Your trusted 3rd party vendor for government services and solutions.
@@ -39,10 +39,11 @@ export function Footer() {
             </p>
             <ul className="flex flex-col gap-2">
               {[
-                "IT Infrastructure",
+                "Contractor Mechanical",
                 "Consulting",
-                "System Integration",
-                "Cybersecurity",
+                "Electrical",
+                "Instrument",
+                "Civil",
               ].map((item) => (
                 <li key={item}>
                   <span className="text-sm text-primary-foreground/70">{item}</span>
@@ -57,15 +58,15 @@ export function Footer() {
               Contact
             </p>
             <ul className="flex flex-col gap-2 text-sm text-primary-foreground/70">
-              <li>info@vistaragroup.com</li>
-              <li>+1 (555) 234-5678</li>
-              <li>Washington, DC 20001</li>
+              <li>ptciremaiputratekindo@gmail .com</li>
+              <li>021–59713341/081286345007</li>
+              <li>Jl. Oskar II, No.26/Blok 32, Pondok Permai Kuta Baru Tangerang – Banten, 15560</li>
             </ul>
           </div>
         </div>
 
         <div className="mt-10 border-t border-primary-foreground/20 pt-6 text-center text-sm text-primary-foreground/50">
-          {"2026 Vistara Group. All rights reserved."}
+          {"2026 PT. CIREMAI PUTRA TEKINDO. All rights reserved."}
         </div>
       </div>
     </footer>

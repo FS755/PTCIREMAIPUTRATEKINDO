@@ -15,8 +15,7 @@ export function ContactSection() {
               {"Let's Discuss Your Project"}
             </h2>
             <p className="mt-4 leading-relaxed text-muted-foreground">
-              Ready to transform your government operations? Reach out to our team
-              and discover how Vistara Group can deliver the solutions you need.
+              Siap mentransformasi proyek Anda? Hubungi tim kami dan temukan bagaimana PT. CIREMAI PUTRA TEKINDO dapat memberikan solusi yang Anda butuhkan.
             </p>
 
             <div className="mt-10 flex flex-col gap-6">
@@ -26,7 +25,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <p className="font-medium text-foreground">Email</p>
-                  <p className="text-sm text-muted-foreground">info@vistaragroup.com</p>
+                  <p className="text-sm text-muted-foreground">ptciremaiputratekindo@gmail.com</p>
                 </div>
               </div>
 
@@ -36,7 +35,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <p className="font-medium text-foreground">Phone</p>
-                  <p className="text-sm text-muted-foreground">+1 (555) 234-5678</p>
+                  <p className="text-sm text-muted-foreground">021–59713341/081286345007</p>
                 </div>
               </div>
 
@@ -47,9 +46,9 @@ export function ContactSection() {
                 <div>
                   <p className="font-medium text-foreground">Office</p>
                   <p className="text-sm text-muted-foreground">
-                    1200 Government Center Blvd, Suite 400
+                    Jl. Oskar II, No.26/Blok 32, Pondok Permai Kuta Baru.
                     <br />
-                    Washington, DC 20001
+                    Tangerang – Banten, 15560, Indonesia
                   </p>
                 </div>
               </div>
