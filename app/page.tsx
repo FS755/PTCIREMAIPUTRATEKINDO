@@ -81,9 +81,10 @@ const stats = [
 
 export default function Home() {
   const [mobileOpen, setMobileOpen] = useState(false)
+  console.log("[v0] Home component rendered - consolidated page.tsx version")
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen" data-version="consolidated">
       {/* ─── NAVBAR ─── */}
       <header className="fixed left-0 right-0 top-0 z-50 border-b border-border bg-background/80 backdrop-blur-md">
         <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
