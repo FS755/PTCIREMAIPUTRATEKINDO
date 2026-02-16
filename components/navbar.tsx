@@ -19,7 +19,7 @@ export function Navbar() {
     <header className="fixed top-0 left-0 right-0 z-50 border-b border-border bg-background/80 backdrop-blur-md">
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         <a href="#home" className="font-heading text-xl font-bold tracking-tight text-primary">
-          Vistara Group
+          PT. CIREMAI PUTRA TEKINDO
         </a>
 
         {/* Desktop Nav */}
